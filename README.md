@@ -7,6 +7,7 @@ Hands-on implementation of Retrieval-Augmented Generation (RAG) covering documen
 | Folder | Description |
 |--------|-------------|
 | [`langchain-text-splitters/`](./langchain-text-splitters/) | Different text splitting strategies — length-based, structure-based, markdown, code, and semantic |
+| [`langchain-document-loaders/`](./langchain-document-loaders/) | Loading documents from PDF, TXT, CSV, directories, and web pages |
 
 ## 🔧 Tech Stack
 
